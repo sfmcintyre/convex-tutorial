@@ -1,0 +1,12 @@
+{
+  "project": "convex-tutorial-d4174",
+  "team": "sfmcintyre",
+  "prodUrl": "https://rugged-goshawk-724.convex.cloud",
+  "functions": "convex/",
+  "authInfo": [
+    {
+      "domain": "https://dev-c4zfdoq3f1yxosev.us.auth0.com/",
+      "applicationID": "i9kvv0AFyB7rkTDlkvpKlVsqkDywUeky"
+    }
+  ]
+}
